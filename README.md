@@ -5,7 +5,7 @@ This repository contains the source code for the Travel Company API, a Flask-bas
 
 ## Design
 
-### Project Structure
+## Project Structure
 
 The project structure is organized as follows:
 
